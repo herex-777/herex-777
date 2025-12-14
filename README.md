@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Herex_777
+I'm a Software Developer which mostly works with JVM languages on Minecraft and Discord stuffs.
 
-<!--
-**herex-777/herex-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make plugins, microservices and lots of other fun stuff.
 
-Here are some ideas to get you started:
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,gradle,javascript,typescript,python,lua)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Technology](https://skillicons.dev/icons?i=kubernetes,docker,spring,workers,mongodb,redis,postgres)](https://skillicons.dev)
+
+### Contact
+`~@antonio32a.com`
+
+[<img src="https://skillicons.dev/icons?i=gmail"/>](mailto:~@antonio32a.com)
+[<img src="https://skillicons.dev/icons?i=twitter"/>](https://twitter.com/antonio32a_)
+[<img src="https://skillicons.dev/icons?i=discord"/>](https://discord.com/invite/knjSZSC)
+
